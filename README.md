@@ -6,6 +6,6 @@
  - SQL (postgres). Домашние работы по модулю "Базы данных". https://github.com/ALEKSEI1166/Databases.-DB-Types-Music-website-
 
 Сертификаты Нетологии:
- - Python.
+ - Python. https://drive.google.com/drive/recent
 
 
