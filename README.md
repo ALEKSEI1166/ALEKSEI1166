@@ -13,6 +13,6 @@
 
    
 Сертификаты Нетологии:
- - Python. https://drive.google.com/drive/recent
+ - Python. https://drive.google.com/drive/my-drive
 
 
