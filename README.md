@@ -4,7 +4,7 @@
 Вот что я умею:
  - Python. Репозиторий с дипломной работой. https://github.com/ALEKSEI1166/Diplom_project-VKinder-
  - SQL (postgres). Домашние работы по модулю "Базы данных. PosrgreSQL".                                        
-   - https://github.com/ALEKSEI1166/Database-creation.-SQL-queries 
+   - https://github.com/ALEKSEI1166/Database-creation.-SQL-queries
    - https://github.com/ALEKSEI1166/Working-with-PostgreSQL-from-Python-clients_db-
    - https://github.com/ALEKSEI1166/Python-BD.-ORM-Bookhouse-
  - Модуль «Основы языка программирования».  https://github.com/ALEKSEI1166/Basics-of-the-programming-language   
