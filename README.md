@@ -38,10 +38,10 @@
   -  у трека получено название, длительность и альбом к которому трек принадлежит                                 
    https://github.com/ALEKSEI1166/Database-creation.-SQL-queries
 
-3. **Проект "VKinder"**    
+3.  **Проект "VKinder"**    
    задача: создание чат-бота «VKinder». Бот должен искать людей, подходящих под условия,
           на основании информации о пользователе из VK.
-   - выполнен на python с использованием API VK и postgresql
+   выполнен на python с использованием API VK и postgresql
     https://github.com/ALEKSEI1166/Diplom_project-VKinder-
 
 4. **Проект "HTML и CSS"**
