@@ -42,7 +42,7 @@
    задача: создание чат-бота «VKinder». Бот должен искать людей, подходящих под условия,
           на основании информации о пользователе из VK.
    выполнен на python с использованием API VK и postgresql
-   https://github.com/ALEKSEI1166/Diplom_project-VKinder-
+    https://github.com/ALEKSEI1166/Diplom_project-VKinder-
 
 4. **Проект "HTML и CSS"**
    задача: сверстать макет сайта на курсе «HTML-вёрстка: с нуля до первого макета»
