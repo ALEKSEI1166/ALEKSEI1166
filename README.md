@@ -45,6 +45,7 @@
     выполнен на python с использованием API VK и postgresql
     https://github.com/ALEKSEI1166/Diplom_project-VKinder-
 
+
 **СЕРТИФИКАТ НЕТОЛОГИИ**
  - Python. https://drive.google.com/file/d/1qvEfJ8W_qCZJHExgRn5NH0o2Ctf1a28J/view?usp=sharing
 
