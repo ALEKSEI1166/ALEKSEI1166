@@ -45,11 +45,6 @@
     выполнен на python с использованием API VK и postgresql
     https://github.com/ALEKSEI1166/Diplom_project-VKinder-
 
-4. **Проект "HTML и CSS"**
-   задача: сверстать макет сайта на курсе «HTML-вёрстка: с нуля до первого макета»
-   выполнен с использованием HTML и CSS
-    https://codepen.io/Aleksei66/pen/dyqNdxO
-
 **СЕРТИФИКАТ НЕТОЛОГИИ**
  - Python. https://drive.google.com/file/d/1qvEfJ8W_qCZJHExgRn5NH0o2Ctf1a28J/view?usp=sharing
 
