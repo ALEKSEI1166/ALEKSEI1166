@@ -50,7 +50,7 @@
      https://codepen.io/Aleksei66/pen/dyqNdxO
    
 
-**Диплом НЕТОЛОГИИ**
+**ДИПЛОМ НЕТОЛОГИИ**
  - Python. https://drive.google.com/file/d/1RCyOdIzah7vewxw1ARIwstTjKcDhjTe9/view?usp=sharing
 
 **ОБО МНЕ**
