@@ -50,8 +50,8 @@
      https://codepen.io/Aleksei66/pen/dyqNdxO
    
 
-**СЕРТИФИКАТ НЕТОЛОГИИ**
- - Python. https://drive.google.com/file/d/1qvEfJ8W_qCZJHExgRn5NH0o2Ctf1a28J/view?usp=sharing
+**Диплом НЕТОЛОГИИ**
+ - Python. https://drive.google.com/file/d/1RCyOdIzah7vewxw1ARIwstTjKcDhjTe9/view?usp=sharing
 
 **ОБО МНЕ**
 
