@@ -59,6 +59,7 @@
    Продолжаю самообучение по Python - подписан на: 
    -  ютуб-канал “Изучаем мир IT”: https://www.youtube.com/@wiseplat
    -  ютуб- канал “Лучанос(про IT без стереотипов)”: https://www.youtube.com/@luchanos
+   -  ютуб-канале "Программирование":  https://www.youtube.com/@it_start/featured
    -  HackerRank Python: https://www.hackerrank.com/AlekseiD?hr_r=1
    -  Codewars: https://www.codewars.com/dashboard
    -  Хабр: https://habr.com/ru/specials/743616/
