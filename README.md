@@ -77,5 +77,5 @@
 
 **портфолио:** https://github.com/ALEKSEI1166
 
-**резюме:**  https://drive.google.com/file/d/1UDXG9G5MxYMjjtEB6IyEBoH9r4g1vm0v/view?usp=sharing
+**резюме:**  https://drive.google.com/file/d/1Gj0k3oGH2keyB1d2ainb_GEKxnLdIxyu/view?usp=sharing
 
