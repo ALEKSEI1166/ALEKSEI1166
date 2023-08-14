@@ -73,5 +73,5 @@
 - **email:**  dolgovas40@yandex.ru
 - **Telegram:** https://t.me/A_D_1105 
 - **портфолио:** https://github.com/ALEKSEI1166
-- **резюме:**  https://drive.google.com/file/d/1Gj0k3oGH2keyB1d2ainb_GEKxnLdIxyu/view?usp=sharing
+- **резюме:**  https://drive.google.com/file/d/1Td4AGX5r2nBdo2P046uK4qPzpv_mFJoY/view?usp=sharing
 
