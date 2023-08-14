@@ -70,8 +70,8 @@
 **МОИ КОНТАКТЫ**
 
 **тел.** +7 (930) 759-96-00   
-**email:**  dolgovas40@yandex.ru
-**Telegram:** https://t.me/A_D_1105 
-**портфолио:** https://github.com/ALEKSEI1166
-**резюме:**  https://drive.google.com/file/d/1Gj0k3oGH2keyB1d2ainb_GEKxnLdIxyu/view?usp=sharing
+- **email:**  dolgovas40@yandex.ru
+- **Telegram:** https://t.me/A_D_1105 
+- **портфолио:** https://github.com/ALEKSEI1166
+- **резюме:**  https://drive.google.com/file/d/1Gj0k3oGH2keyB1d2ainb_GEKxnLdIxyu/view?usp=sharing
 
