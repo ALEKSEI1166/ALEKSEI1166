@@ -29,7 +29,7 @@ ChatGPT) и хочу дальше развиваться в этом напра�
 * Python. Репозиторий "Проект "HTML и CSS".  https://codepen.io/Aleksei66/pen/dyqNdxO
 * Python. Репозиторий "Библиотека-запросы-http-запросы". https://github.com/ALEKSEI1166/Library-requests-http-requests
 * Python. Репозиторий "Python-BD.-ORM-Bookhouse".  https://github.com/ALEKSEI1166/Python-BD.-ORM
-* Python. Репозиторий "ООП-объекты-и-классы.-Инкапсуляция-наследование-и-полиморфизм" https://github.com/ALEKSEI1166/OOP-Objects-and-classes.-Encapsulation- inheritance-and-polymorphism.
+* Python. Репозиторий "ООП-объекты-и-классы.-Инкапсуляция-наследование-и-полиморфизм" https://github.com/ALEKSEI1166/OOP-Objects-and-classes.-Encapsulation-inheritance-and-polymorphism.
 
   
                                            
