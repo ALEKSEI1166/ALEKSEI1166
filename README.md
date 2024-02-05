@@ -25,6 +25,7 @@ ChatGPT) и хочу дальше развиваться в этом напра�
   (Предварительная обработка данных).  https://colab.research.google.com/drive/1AGo97v1cnWsK4Hg8j-MgXdCEQQjQ4Z6e?usp=sharing
 * Python. Репозиторий "Исследовательский анализ данных на языке Python".  https://colab.research.google.com/drive/18hUsHRJJ6xqMAvk7vvgHf9ZoHcJNIB6D
 * Python. Репозиторий "Проверка гипотез".  https://colab.research.google.com/drive/1SvhDDHy_-Ke_xbxajOTKcmXbwdHvr_F4
+* Python. Репозиторий "Сделать выборку данных с помощью запросов SQL". https://colab.research.google.com/drive/1dQK_16oG0uelpprR4ni4veFoXfuwICYX 
 * Python. Репозиторий с дипломной работой "VKinder".  https://github.com/ALEKSEI1166/Diplom_project-VKinder-
 * Python. Репозиторий "Работа с PostgreSQL из Python".  https://github.com/ALEKSEI1166/Working-with-PostgreSQL-from-Python-clients_db-
 * Python. Репозиторий "БД PostgreSQL. SQL-запросы. Выборка из таблиц".  https://github.com/ALEKSEI1166/Database-creation.-SQL-queries
