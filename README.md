@@ -26,7 +26,7 @@ ChatGPT) и хочу дальше развиваться в этом напра�
 * Python. Репозиторий "Описательная статистика (описательный анализ признаков предложенного датасета)". https://colab.research.google.com/drive/1la3bKyXBXAhw8yCHIXsXr7_HEZzlZ_Zp
 * Python. Репозиторий "Проверка гипотез".  https://colab.research.google.com/drive/1SvhDDHy_-Ke_xbxajOTKcmXbwdHvr_F4
 * Python. Репозиторий "Сделать выборку данных с помощью запросов SQL". https://colab.research.google.com/drive/1dQK_16oG0uelpprR4ni4veFoXfuwICYX 
-* Python. Дипломная работа "VKinder".  https://github.com/ALEKSEI1166/Diplom_project-VKinder-
+* Python. Дипломная работа "VKinder"(сделать бот).  https://github.com/ALEKSEI1166/Diplom_project-VKinder-
 * Python. Репозиторий "Работа с PostgreSQL из Python".  https://github.com/ALEKSEI1166/Working-with-PostgreSQL-from-Python-clients_db-
 * Python. Репозиторий "БД PostgreSQL. SQL-запросы. Выборка из таблиц".  https://github.com/ALEKSEI1166/Database-creation.-SQL-queries
 * Python. Репозиторий "Проект "HTML и CSS".  https://codepen.io/Aleksei66/pen/dyqNdxO
