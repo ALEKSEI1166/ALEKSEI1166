@@ -5,37 +5,13 @@
 
 **МОИ КЛЮЧЕВЫЕ КОМПЕТЕНЦИИ**
 
-* Python. Репозиторий с дипломной работой **"VKinder"** https://github.com/ALEKSEI1166/Diplom_project-VKinder-
-* Python. Репозиторий “Работа с PostgreSQL из Python”** https://github.com/ALEKSEI1166/Working-with-PostgreSQL-from-Python-clients_db-
+* Python. Репозиторий с дипломной работой **"VKinder"**  https://github.com/ALEKSEI1166/Diplom_project-VKinder-
+* Python. Репозиторий “Работа с PostgreSQL из Python”**  https://github.com/ALEKSEI1166/Working-with-PostgreSQL-from-Python-clients_db-
+* Python. Репозиторий “БД PostgreSQL. SQL-запросы. Выборка из таблиц”**  https://github.com/ALEKSEI1166/Database-creation.-SQL-queries
+* Python. Репозиторий **Проект "HTML и CSS"**  https://codepen.io/Aleksei66/pen/dyqNdxO
 
                                            
-2. **Проект “БД PostgreSQL. SQL-запросы. Выборка из таблиц”**                                                                            
-  задача: спроектировать схему (таблицы и связи между ними) для музыкального сайта                                                
-          написать SQL-запросы, создающие спроектированную БД                                                                          
-  инструменты: приложение Diagrams.net для создания схем.                                                                                  результатом работы будет 3 файла в формате .sql
-  -   с INSERT запросами 
-  -   с SELECT запросами
-  -   с CREATE  запросами
-  -  спроектирована и нарисована схема                                                                
-     https://drive.google.com/file/d/1Dnb-kcOyzaIOnWXg7LRvnSpafTr6nXVb/view?usp=sharing                                             
-  -  выделен список музыкальных жанров
-  -  для каждого жанра получен список исполнителей
-  -  для каждого исполнителя получен список его альбомов
-  -  для исполнителя получено имя жанра исполнения
-  -  у альбома получено название, год выпуска и его исполнитель
-  -  у трека получено название, длительность и альбом к которому трек принадлежит                                 
-   https://github.com/ALEKSEI1166/Database-creation.-SQL-queries
 
-3.  **Проект "VKinder"**    
-   задача: создание чат-бота «VKinder». Бот должен искать людей, подходящих под условия,
-           на основании информации о пользователе из VK.      
-   выполнен на python с использованием **API VK** и **postgresql**
-     https://github.com/ALEKSEI1166/Diplom_project-VKinder-
-
- 4.  **Проект "HTML и CSS"**
-    задача: сверстать макет сайта на курсе «HTML-вёрстка: с нуля до первого макета»
-    выполнен с использованием HTML и CSS
-     https://codepen.io/Aleksei66/pen/dyqNdxO
    
 
 **ДИПЛОМ НЕТОЛОГИИ**
