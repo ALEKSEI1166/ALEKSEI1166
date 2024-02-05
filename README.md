@@ -5,6 +5,19 @@
 
 **МОИ КЛЮЧЕВЫЕ КОМПЕТЕНЦИИ**
 
+- изучал язык запросов SQL и работу с БД PostgreSQL
+- умею работать с системами визуализации данных с
+построением Дашборда (Power BI, Data Lens, Google tables,
+Collaboratory, Excel )
+- изучал основы и синтаксис языка Python, имею навыки
+программирования на Python для анализа данных
+- получил знания в области аналитики данных.
+- продолжаю активно заниматься самообразованием - читаю
+профильную литературу, подписан на ютуб-каналы по Python
+- обучаюсь на курсе по искусственному интеллекту (нейросеть
+ChatGPT) и хочу дальше развиваться в этом направлении
+
+**МОИ РЕПОЗИТОРИИ**
 * Python. Репозиторий с дипломной работой "VKinder"  https://github.com/ALEKSEI1166/Diplom_project-VKinder-
 * Python. Репозиторий "Работа с PostgreSQL из Python"  https://github.com/ALEKSEI1166/Working-with-PostgreSQL-from-Python-clients_db-
 * Python. Репозиторий "БД PostgreSQL. SQL-запросы. Выборка из таблиц"  https://github.com/ALEKSEI1166/Database-creation.-SQL-queries
