@@ -21,8 +21,8 @@ ChatGPT) и хочу дальше развиваться в этом напра�
 
 * Python. Репозиторий **Проект “Аналитическая задача - провести анализ данных с целью выделения портретов заемщиков
   по каждой группе целевого признака”  https://colab.research.google.com/drive/18CqHF5T5E95l4kzL6rXJy1TiQNf-OfaE?usp=sharing
-* Python. Проект "Вэб-скрапинг и парсинг"
-- предварительная обработка данных  https://colab.research.google.com/drive/1AGo97v1cnWsK4Hg8j-MgXdCEQQjQ4Z6e?usp=sharing
+* Python. Проект "Вэб-скрапинг и парсинг".
+  Предварительная обработка данных  https://colab.research.google.com/drive/1AGo97v1cnWsK4Hg8j-MgXdCEQQjQ4Z6e?usp=sharing
 * Python. Репозиторий с дипломной работой "VKinder"  https://github.com/ALEKSEI1166/Diplom_project-VKinder-
 * Python. Репозиторий "Работа с PostgreSQL из Python"  https://github.com/ALEKSEI1166/Working-with-PostgreSQL-from-Python-clients_db-
 * Python. Репозиторий "БД PostgreSQL. SQL-запросы. Выборка из таблиц"  https://github.com/ALEKSEI1166/Database-creation.-SQL-queries
