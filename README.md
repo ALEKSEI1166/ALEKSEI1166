@@ -21,8 +21,7 @@ ChatGPT) и хочу дальше развиваться в этом напра�
 
 * Python. Дипломный проект "Аналитическая задача - провести анализ данных с целью выделения портретов заемщиков
   по каждой группе целевого признака".  https://colab.research.google.com/drive/18CqHF5T5E95l4kzL6rXJy1TiQNf-OfaE?usp=sharing
-* Python. Проект "Вэб-скрапинг и парсинг"
-  (Предварительная обработка данных).  https://colab.research.google.com/drive/1AGo97v1cnWsK4Hg8j-MgXdCEQQjQ4Z6e?usp=sharing
+* Python. Репозиторий "Предварительная обработка данных". https://colab.research.google.com/drive/1AGo97v1cnWsK4Hg8j-MgXdCEQQjQ4Z6e?usp=sharing
 * Python. Репозиторий "Исследовательский анализ данных на языке Python".  https://colab.research.google.com/drive/18hUsHRJJ6xqMAvk7vvgHf9ZoHcJNIB6D
 * Python. Репозиторий "Описательная статистика (описательный анализ признаков предложенного датасета)". https://colab.research.google.com/drive/1la3bKyXBXAhw8yCHIXsXr7_HEZzlZ_Zp
 * Python. Репозиторий "Проверка гипотез".  https://colab.research.google.com/drive/1SvhDDHy_-Ke_xbxajOTKcmXbwdHvr_F4
