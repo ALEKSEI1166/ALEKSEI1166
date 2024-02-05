@@ -28,7 +28,8 @@ ChatGPT) и хочу дальше развиваться в этом напра�
 * Python. Репозиторий "БД PostgreSQL. SQL-запросы. Выборка из таблиц".  https://github.com/ALEKSEI1166/Database-creation.-SQL-queries
 * Python. Репозиторий "Проект "HTML и CSS".  https://codepen.io/Aleksei66/pen/dyqNdxO
 * Python. Репозиторий "Библиотека-запросы-http-запросы". https://github.com/ALEKSEI1166/Library-requests-http-requests
-
+* Python. Репозиторий "Python-BD.-ORM-Bookhouse".
+  
                                            
 
    
