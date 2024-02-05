@@ -3,7 +3,7 @@
 **Меня зовут Алексей Долгов, я аналитик данных на Python.**
 
 
-**МОИ КЛЮЧЕВЫЕ КОМПЕТЕНЦИИ:**
+МОИ КЛЮЧЕВЫЕ КОМПЕТЕНЦИИ:
 
 - изучал язык запросов SQL и работу с БД PostgreSQL
 - умею работать с системами визуализации данных с
@@ -17,17 +17,17 @@ Collaboratory, Excel )
 - обучаюсь на курсе по искусственному интеллекту (нейросеть
 ChatGPT) и хочу дальше развиваться в этом направлении
 
-**МОИ РЕПОЗИТОРИИ:
+МОИ РЕПОЗИТОРИИ:
 
 * Python. Проект "Аналитическая задача - провести анализ данных с целью выделения портретов заемщиков
-  по каждой группе целевого признака"  https://colab.research.google.com/drive/18CqHF5T5E95l4kzL6rXJy1TiQNf-OfaE?usp=sharing
-* Python. Проект "Вэб-скрапинг и парсинг".
-  (Предварительная обработка данных)  https://colab.research.google.com/drive/1AGo97v1cnWsK4Hg8j-MgXdCEQQjQ4Z6e?usp=sharing
-* Python. Репозиторий с дипломной работой "VKinder"  https://github.com/ALEKSEI1166/Diplom_project-VKinder-
-* Python. Репозиторий "Работа с PostgreSQL из Python"  https://github.com/ALEKSEI1166/Working-with-PostgreSQL-from-Python-clients_db-
-* Python. Репозиторий "БД PostgreSQL. SQL-запросы. Выборка из таблиц"  https://github.com/ALEKSEI1166/Database-creation.-SQL-queries
-* Python. Репозиторий "Проект "HTML и CSS" https://codepen.io/Aleksei66/pen/dyqNdxO
-* Python. Репозиторий "Библиотека-запросы-http-запросы" https://github.com/ALEKSEI1166/Library-requests-http-requests
+  по каждой группе целевого признака".  https://colab.research.google.com/drive/18CqHF5T5E95l4kzL6rXJy1TiQNf-OfaE?usp=sharing
+* Python. Проект "Вэб-скрапинг и парсинг"
+  (Предварительная обработка данных).  https://colab.research.google.com/drive/1AGo97v1cnWsK4Hg8j-MgXdCEQQjQ4Z6e?usp=sharing
+* Python. Репозиторий с дипломной работой "VKinder".  https://github.com/ALEKSEI1166/Diplom_project-VKinder-
+* Python. Репозиторий "Работа с PostgreSQL из Python".  https://github.com/ALEKSEI1166/Working-with-PostgreSQL-from-Python-clients_db-
+* Python. Репозиторий "БД PostgreSQL. SQL-запросы. Выборка из таблиц".  https://github.com/ALEKSEI1166/Database-creation.-SQL-queries
+* Python. Репозиторий "Проект "HTML и CSS".  https://codepen.io/Aleksei66/pen/dyqNdxO
+* Python. Репозиторий "Библиотека-запросы-http-запросы". https://github.com/ALEKSEI1166/Library-requests-http-requests
 
                                            
 
