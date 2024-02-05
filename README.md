@@ -44,10 +44,12 @@ ChatGPT) и хочу дальше развиваться в этом напра�
    - диплом профессиональной переподготовки “Аналитик данных: с нуля до разработки прикладных решений для бизнеса” 
      https://drive.google.com/file/d/1yvoD8Z_R3fbqkYkTxMYapiIvrF-0Cfzn/view?usp=sharing
 2. ООО Нетология: 
-   - диплом "Python-разработчик" https://drive.google.com/file/d/1RCyOdIzah7vewxw1ARIwstTjKcDhjTe9/view?usp=sharing
+   - диплом "Python-разработчик"   https://drive.google.com/file/d/1RCyOdIzah7vewxw1ARIwstTjKcDhjTe9/view?usp=sharing
    - сертификат "Визуализация данных: от скучных графиков до интерактивных дашбордов"  https://drive.google.com/file/d/1TN6dZeXIbWWvkmfnrlXrLaKLB_1TCPJz/view? 
      usp=sharing
-   - свидетельство "Основы SQL" https://drive.google.com/file/d/1GzcHW1CvF6aWsu3xrx7TDeTIq5lHdd6u/view?usp=sharing
+   - свидетельство "Основы SQL"  https://drive.google.com/file/d/1GzcHW1CvF6aWsu3xrx7TDeTIq5lHdd6u/view?usp=sharing
+3. Юридический институт МВД России, Москва
+   - диплом юриста  https://drive.google.com/file/d/1FzlF1NBMvt361UM7Z-3dq4K6PtzkR5Dr/view?usp=sharing
      
 **ОБО МНЕ**
 
