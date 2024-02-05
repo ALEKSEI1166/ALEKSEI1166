@@ -9,6 +9,7 @@
 * Python. Репозиторий “Работа с PostgreSQL из Python”**  https://github.com/ALEKSEI1166/Working-with-PostgreSQL-from-Python-clients_db-
 * Python. Репозиторий “БД PostgreSQL. SQL-запросы. Выборка из таблиц”**  https://github.com/ALEKSEI1166/Database-creation.-SQL-queries
 * Python. Репозиторий **Проект "HTML и CSS"**  https://codepen.io/Aleksei66/pen/dyqNdxO
+* Python. Репозиторий **Библиотека-запросы-http-запросы**
 
                                            
 
