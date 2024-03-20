@@ -54,5 +54,5 @@ ChatGPT) и хочу дальше развиваться в этом напра�
 - **email:**  dolgovas40@yandex.ru
 - **Telegram:** https://t.me/A_D_1105 
 - **портфолио:** https://github.com/ALEKSEI1166
-- **резюме:**  https://drive.google.com/file/d/11p90uIYbpdvMPEht0tknMRd6UGFMagvL/view?usp=sharing
+- **резюме:**  https://drive.google.com/file/d/1tsrYEQSw-5x6GjOlTz02jwvZrtEGkbN6/view?usp=sharing
 
